@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phaodejain.apotheke-warburg.de/sitemap.xml
